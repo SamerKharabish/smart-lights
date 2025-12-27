@@ -1,0 +1,10 @@
+altera
+Anson
+bugprone
+cooldown
+cppcoreguidelines
+Espressif's
+hicpp
+llvmlibc
+menuconfig
+MISRA
