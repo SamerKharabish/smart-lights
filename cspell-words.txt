@@ -3,8 +3,13 @@ Anson
 bugprone
 cooldown
 cppcoreguidelines
+CPPUTEST
+ctest
 Espressif's
 hicpp
+Kharabish
 llvmlibc
 menuconfig
 MISRA
+Samer
+SRCS
