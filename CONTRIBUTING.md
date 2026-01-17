@@ -1,13 +1,15 @@
 # Contributing
 
-This project follows a strict workflow to keep changes reviewable and releasable.
+This project follows a workflow to keep changes reviewable and releasable.
 
 ## Branching model
+
+The branching model is based on GitHub Flow:
 
 - `main`is always releasable.
 - Work happens on short-lived branches off `main`.
 
-## Branch Branch
+## Conventional Branch
 
 The branch specification must follow the [Conventional Branch](https://conventional-branch.github.io/)
 spec:
@@ -62,4 +64,4 @@ Given a version number MAJOR.MINOR.PATCH, the:
 
 Releases are made by tagging `main`: `v0.1.0`, `v0.1.1`, `v0.2.0`, ...
 
-The changelog is updated for each release (see [changelog.md](../changelog.md)).
+The changelog is updated for each release (see [CHANGELOG.md](CHANGELOG.md)).
