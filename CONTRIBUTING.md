@@ -64,4 +64,4 @@ Given a version number MAJOR.MINOR.PATCH, the:
 
 Releases are made by tagging `main`: `v0.1.0`, `v0.1.1`, `v0.2.0`, ...
 
-The changelog is updated for each release (see [CHANGELOG.md](CHANGELOG.md)).
+The changelog is updated for each release (see [CHANGELOG](https://github.com/SamerKharabish/smart-lights/blob/main/CHANGELOG.md)).

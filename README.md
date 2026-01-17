@@ -17,7 +17,7 @@ This repository contains the following parts:
 - tests/: Unit, integration and system tests
 - third-party/: Third-party libraries and dependencies
 
-NOTE: See the [architecture](https://github.com/SamerKharabish/smart-lights/blob/main/docs/)
+NOTE: See the [architecture](https://github.com/SamerKharabish/smart-lights/blob/main/docs/architecture.md)
 documentation for a detailed overview of the repository structure.
 
 ## Hardware
